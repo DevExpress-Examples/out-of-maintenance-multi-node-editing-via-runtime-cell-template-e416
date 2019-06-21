@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Multi-Node Editing via runtime cell template
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e416/)**
+<!-- run online end -->
 
 
 <p>This demo shows how to edit all nodes selected on the page.</p><p><strong>See Also:</strong><br />
